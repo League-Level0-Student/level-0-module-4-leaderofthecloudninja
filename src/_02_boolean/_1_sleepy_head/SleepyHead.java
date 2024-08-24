@@ -12,13 +12,12 @@ public class SleepyHead {
 		// i.e. >, <, ==, >=, <=, .equals() which all produce a true or false
 		// value.
 		
-		boolean isWeekend = false;
+		boolean isWeekend = true;
 		
         // 1.) Run the program and look at the if-else statement below.
 		
         // 2.) Change the value of isWeekend so that the pop-up in the
         //     if statement happens instead.
-		
         // Notice that when using a boolean variable in an if statement 
 		// there is no need for comparisons because it is already a true 
 		// or false value.

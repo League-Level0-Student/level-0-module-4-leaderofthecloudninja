@@ -15,7 +15,7 @@ public class RedSquare {
 	
 	public static void main(String[] args) {
 		
-		boolean isRed = false;
+		boolean isRed = !false;
 		boolean isSquare = true;
 		
 		// The && shown here means that both booleans must be true for the 
